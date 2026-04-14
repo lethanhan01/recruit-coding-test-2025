@@ -78,3 +78,5 @@ email: pgtest@mlist.sbs-infosys.co.jp
 ```
 “Great engineers explain their choices — and leave the code better than they found it.”
 ```
+
+// Hello Vietnam
